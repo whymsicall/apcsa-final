@@ -1,3 +1,5 @@
+//I completed this in one session so there were no changes made when originally submitted
+
 import java.util.Scanner;
 
 public class CountWords
