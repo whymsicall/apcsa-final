@@ -1,4 +1,4 @@
-
+// Zach: changed the code so that the if statement would detect whether or not the user inputed Yes or No
 
 import java.util.Scanner;
 import java.text.NumberFormat;
@@ -139,7 +139,7 @@ public class PizzaPOS
 		System.out.println(toppings);
 
 		
-		if (discount)
+		if (discount = true)
 		{
 			System.out.println("Congratulations! You are eligible for a $2.00 discount.");
 			cost -= 2.00;
